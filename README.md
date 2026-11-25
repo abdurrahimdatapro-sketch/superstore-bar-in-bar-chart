@@ -58,9 +58,7 @@ superstore-bar-in-bar-chart/
 └── README.md
 ```
 
-## Interactive Visualization
-
-**Tableau Public:** ADD_YOUR_TABLEAU_PUBLIC_LINK_HERE
+**Tableau Public:** [View Interactive Bar-in-Bar Chart](https://public.tableau.com/app/profile/abdur.rahim5381/viz/SuperstoreBarinBarChart/Sheet1)
 
 ## Project Type
 
